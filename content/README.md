@@ -4,4 +4,8 @@
 - `mv *md contents`
 - `mv webkittfont-22343etc fonts`
 - `rm -rf specimen_files`
-_ `rm -rf *.html *.css .*txt files`
+- `rm -rf *.html *.css .*txt files`
+- `mkdir scripts styles`
+- `mv index.css styles`
+- `mv index.js scripts`
+
